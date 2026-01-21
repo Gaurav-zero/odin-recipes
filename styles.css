@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+
+.link{
+    display: block;
+    box-sizing: border-box;
+    width: 150px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+
+.heading{
+    background-color: antiquewhite;
+    margin-left:auto;
+    margin-right: auto;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.desc{
+    padding: 20px;
+    background-color: beige;
+    border-radius: 20px;
+}
